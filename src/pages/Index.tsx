@@ -321,7 +321,7 @@ const MinecraftLauncher = () => {
                 <Button variant="outline" size="sm">60%</Button>
               </div>
             </div>
-          </div>
+          </Card>
         </div>
       </div>
     </motion.div>
